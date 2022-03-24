@@ -10,3 +10,6 @@ This project is done only as a test project for AllAboutApps.at.
 - The "Styles" class is a self-made class that I use in almost all my projects for purposes of easy, fast and seamless design with support of different resolutions.
 - I do not have access to a mac device for configuring the apple side of the project (I use a friend's mac for purposes such as this, but he was not available in a short notice for this project. Needless to say that given that I start working for AllAboutApps, getting a Mac (or at least a mac VPS for smaller needs and quicker access) will be my priority.)
 
+### One last note
+
+I just noticed that the description in the file required "european_titles" was needed to be shown in the details page of a club, but I was confused with the screenshot provided which was showing the value of the club in the details page. Therefore, the final result is showing the value of the club, not the titles won. 
