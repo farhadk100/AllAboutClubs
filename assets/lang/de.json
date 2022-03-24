@@ -1,0 +1,6 @@
+{
+  "app_name": "all about clubs",
+  "value_millions": "Millionen",
+  "unknown_error": "Ein unbekannter Fehler ist aufgetreten",
+  "club_detail": "Der Club {name} aus {country} hat einen Wert von {value} Millionen Euro."
+}

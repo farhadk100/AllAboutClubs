@@ -1,0 +1,7 @@
+{
+  "app_name": "all about clubs",
+  "value_millions": "Millions",
+  "unknown_error": "An unknown error has happened",
+  "try_again": "Try again",
+  "club_detail": "The {name} club from {country} has a value of {value} Million Euros."
+}
