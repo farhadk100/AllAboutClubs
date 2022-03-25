@@ -8,11 +8,11 @@ class DioManager{
   }
 
   Future<dynamic> putRequest(String apiURL, Map<String, dynamic> data, Options options) {
-    return _requestHandling(_dio.post(apiURL, data: data, options: options));
+    return _requestHandling(_dio.put(apiURL, data: data, options: options));
   }
 
   Future<dynamic> deleteRequest(String apiURL, Map<String, dynamic> data, Options options) {
-    return _requestHandling(_dio.post(apiURL, data: data, options: options));
+    return _requestHandling(_dio.delete(apiURL, data: data, options: options));
   }
 
   Future<dynamic> postRequest(String apiURL, Map<String, dynamic> data, Options options) {
